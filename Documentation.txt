@@ -1,0 +1,12 @@
+My Company Hierarchy project basically consists of 3 files:
+
+Employee.cs - base Employee class which holds the properties of the employee and a pointer
+for the next employee
+
+ListOfEmployees.cs - class which holds the helper properties and methods for the LinkedList
+implementation
+
+HrManager.cs - the main program in which I have created a LinkedList instance,
+added Employee objects to it, performed different actions on them.
+
+Additional info can be found in the comments directly in the source code.

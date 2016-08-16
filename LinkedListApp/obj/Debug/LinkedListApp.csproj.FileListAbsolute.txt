@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\CompanyStructureProject\LinkedListApp\LinkedListApp\bin\Debug\LinkedListApp.exe.config
+C:\Users\HP\Desktop\CompanyStructureProject\LinkedListApp\LinkedListApp\bin\Debug\LinkedListApp.exe
+C:\Users\HP\Desktop\CompanyStructureProject\LinkedListApp\LinkedListApp\bin\Debug\LinkedListApp.pdb
+C:\Users\HP\Desktop\CompanyStructureProject\LinkedListApp\LinkedListApp\obj\Debug\LinkedListApp.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\CompanyStructureProject\LinkedListApp\LinkedListApp\obj\Debug\LinkedListApp.exe
+C:\Users\HP\Desktop\CompanyStructureProject\LinkedListApp\LinkedListApp\obj\Debug\LinkedListApp.pdb
